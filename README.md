@@ -1,6 +1,6 @@
 # Tecnológico de Software
 ## Materia: Fundamentos de álgebra
-## Alumno: Tanjiro Jesús Hernández López
+## Alumno: Noe Euan Herrera 
 ## Actividad \#16 - Matrices doc
 
 ---
